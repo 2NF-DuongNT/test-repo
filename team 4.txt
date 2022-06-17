@@ -1,0 +1,14 @@
+member 1:
+Họ và tên : Nguyễn Tiến Dũng
+Quê quán : Hà Tĩnh
+Trường học : FPT Aptech
+Ngày tháng năm sinh : 20-06-2000
+SĐT : 0365053725
+Khóa : t2009m1
+Tình trạng quan hệ : chưa nắm tay ai
+Sở thích : chơi game
+Sở đoản : kỹ năng mềm kém
+Fb : facebook.com/account.dn
+Đam mê : lập trình
+Sở trường : chưa nghĩ ra chị ơi
+
